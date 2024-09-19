@@ -1,18 +1,15 @@
 package com.fetchrewards.fetchrewardscodetest
 
-import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.fetchrewards.fetchrewardscodetest.utils.Item
 import com.fetchrewards.fetchrewardscodetest.utils.ItemsRepository
 import io.mockk.every
 import io.mockk.mockk
 import kotlinx.coroutines.flow.flowOf
-
+import org.junit.Assert.assertEquals
+import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
-
-import org.junit.Assert.*
-import org.junit.Before
 
 /**
  * Instrumented test, which will execute on an Android device.

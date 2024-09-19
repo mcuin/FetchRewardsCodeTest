@@ -5,7 +5,6 @@ import androidx.lifecycle.viewModelScope
 import com.fetchrewards.fetchrewardscodetest.utils.Item
 import com.fetchrewards.fetchrewardscodetest.utils.ItemsRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dagger.hilt.android.scopes.ViewScoped
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.asStateFlow
