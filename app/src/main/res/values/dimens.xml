@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="circular_loader_stroke">10dp</dimen>
+    <dimen name="circular_loader_size">100dp</dimen>
+</resources>

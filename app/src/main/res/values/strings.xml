@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FetchRewardsCodeTest</string>
+    <string name="group">Group %1$s</string>
+    <string name="empty_state">There are no items to display. Please try again later.</string>
+</resources>
